@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akshay Kumar
 - 👀 I’m interested in Full Stack Development & Game Development
-- 🌱 I’m currently learning Django & Unreal Engine
+- 🌱 I’m currently learning Django, ReactJs & Unreal Engine
 - 💞️ I’m looking to collaborate on projects that push the boundaries of technology and bring innovative solutions to real-world problems.
 - 📫 How to reach me 
 
